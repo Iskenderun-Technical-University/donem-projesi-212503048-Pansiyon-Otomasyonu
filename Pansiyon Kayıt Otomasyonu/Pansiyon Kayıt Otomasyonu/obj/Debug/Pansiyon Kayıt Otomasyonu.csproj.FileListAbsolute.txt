@@ -1,0 +1,20 @@
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\bin\Debug\Pansiyon Kayıt Otomasyonu.exe.config
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\bin\Debug\Pansiyon Kayıt Otomasyonu.exe
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\bin\Debug\Pansiyon Kayıt Otomasyonu.pdb
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon Kayıt Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon Kayıt Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.FrmAdminGiris.resources
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.FrmAnaForm.resources
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.FrmOdalar.resources
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.FrmYeniMusteri.resources
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon Kayıt Otomasyonu.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon Kayıt Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon Kayıt Otomasyonu.exe
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon Kayıt Otomasyonu.pdb
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.FrmMusteriler.resources
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.FrmGelirGider.resources
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.FrmStoklar.resources
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.FrmGazeteler.resources
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.FrmSifreGuncelle.resources
+C:\Users\LENOVO\source\repos\Pansiyon Kayıt Otomasyonu\Pansiyon Kayıt Otomasyonu\obj\Debug\Pansiyon_Kayıt_Otomasyonu.FrmMesajlar.resources
